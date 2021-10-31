@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EnglishPractice</string>
+
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="emailLogin">Enter Email</string>
+
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="ConfirmPassword">Comfirm Password</string>
+
+    <string name="signUp">Sign Up</string>
+    <string name="next">Next</string>
+    <string name="code">Co\nde</string>
+    <string name="verification">VERIFICATION</string>
+
+    <string name="detail_password">PROVIDE YOUR ACCOUNT EMAIL FOR WHICH YOU WANT TO YOUR PASSWORD</string>
+    <string name="select_detail">Select which contact datail should we use to reset your password?</string>
+    <string name="make_nselection">MAKE\nSELECTION</string>
+    <string name="new_ncredentials">New\nCredentials</string>
+    <string name="new_password_detail">YOUR IDENTITY HAS BEEN VERIFIED! SET YOUR NEW PASSWORD</string>
+    <string name="password_nupdate">Password\nUpdate</string>
+    <string name="create_nacount">Create\nAcount</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="learning_english">Learning English</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="detail_send_otp">Chúng tôi sẽ gửi 1 đoạn mã đến số điện thoại của bạn</string>
+</resources>

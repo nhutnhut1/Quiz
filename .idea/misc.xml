@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/ic_category.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/ic_hinh_tron.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/ic_pen.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/ic_person.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-v24/round_view.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/background_button.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/bg_btn.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/ic_account.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/ic_bookmark.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/selected_btn.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/drawable-xxhdpi/unselected_btn.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_answers.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_bookmarks.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_login.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_my_profile.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_questions.xml" value="0.1" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_score.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_sign_up.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_start_test.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_test.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/activity_trang_chu.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/alert_diolog_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/answers_item_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/cate_item.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/fragment_account.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/fragment_category.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/fragment_leaderboard.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/header.xml" value="0.115625" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/item_photo.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/progress_bar_layout.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/ques_grid_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/question_item_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/question_list_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/rank_item_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/layout/test_item.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/nhutp/AndroidStudioProjects/EnglishPractice/app/src/main/res/menu/main_menu.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

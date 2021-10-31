@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Trang Chủ" />
+
+        <item
+            android:id="@+id/nav_course"
+            android:icon="@drawable/ic_baseline_library_books_24"
+            android:title="Khóa Học" />
+        <item
+            android:id="@+id/nav_leaderboard"
+            android:icon="@drawable/ic_category"
+            android:title="Leader Board" />
+
+        <item
+            android:id="@+id/nav_bookmarks"
+            android:icon="@drawable/ic_bookmarks_selected"
+            android:title="Book Marks" />
+
+    </group>
+
+
+    <item android:title="Profile">
+
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_account"
+                    android:title="Tài Khoản" />
+                <item
+                    android:id="@+id/nav_2"
+                    android:title="Demo 2" />
+                <item
+                    android:id="@+id/nav_3"
+                    android:title="Demo 3" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Công Cụ Khác">
+        <menu >
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_LogOut"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Thoát" />
+            </group>
+        </menu>
+
+    </item>
+
+
+</menu>

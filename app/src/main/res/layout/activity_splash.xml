@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightWhite"
+    android:padding="30dp"
+    android:id="@+id/background_image"
+    android:transitionName="Splash"
+    tools:context=".activity.SplashActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/content_logo"
+            app:tint="@color/black"
+            android:src="@drawable/ic_hinh_tron"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/muli_black"
+            android:text="Learning English"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="36dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/muli_light"
+            android:text="Giúp bạn cải thiện tiếng anh nhanh nhất"
+            android:textAlignment="center"
+            android:textSize="12dp" />
+
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:transitionName="transition_login"
+                tools:ignore="ButtonStyle"
+                android:onClick="CallLoginScreen"
+                android:id="@+id/btnLogin"
+                app:backgroundTint="@null"
+                android:textColor="@color/black"
+                android:background="@color/yellow"
+                android:layout_marginRight="10dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:text="Login"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+
+            <Button
+                android:transitionName="transition_signUp"
+                android:onClick="CallSignUpScreen"
+                android:id="@+id/btnSignup"
+                android:layout_margin="5dp"
+                app:backgroundTint="@null"
+                android:textColor="@color/black"
+                android:background="@color/yellow"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1"
+                android:text="Sign Up"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:layout_marginTop="10dp"
+    android:backgroundTint="@color/lightWhite"
+    android:background="@drawable/round_view"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/ques_no"
+        android:textSize="18dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Question No.1" />
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="8dp"
+        android:background="?android:attr/listDivider" />
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:id="@+id/question_item_answers"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textColor="@color/black"
+
+        />
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="@color/darkGray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A : 123"
+        android:id="@+id/optionA_item_answers"
+        />
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="@color/darkGray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A : 123"
+        android:id="@+id/optionB_item_answers"
+        />
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="@color/darkGray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A : 123"
+        android:id="@+id/optionC_item_answers"
+        />
+
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="@color/darkGray"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A : 123"
+        android:id="@+id/optionD_item_answers"
+        />
+
+    <TextView
+        android:textSize="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/result_answers"
+        android:text="WRONG"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/red"
+
+        />
+
+
+</LinearLayout>

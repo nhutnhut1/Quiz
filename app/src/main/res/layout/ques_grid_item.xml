@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/ques_num"
+        android:text="1"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:textColor="@color/lightWhite"
+        android:textStyle="bold"
+        android:backgroundTint="#9C9C9C"
+        android:background="@drawable/circle"
+
+        />
+
+</LinearLayout>
